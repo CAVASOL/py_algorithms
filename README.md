@@ -3,7 +3,7 @@
 Collection of LeetCode questions and solutions
 
 | PAI | LeetCode | Difficulty |
-| :---: | :---: | :---: |
+| :--- | :--- | :---: |
 |   01. 유효한 펠린드롬 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy |
 |   02. 문자열 뒤집기 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy |
 |   03. 로그 파일 재정렬 | [937. Reorder Data in Lod Files](https://leetcode.com/problems/reorder-data-in-log-files/) | Medium |
