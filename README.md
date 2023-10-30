@@ -27,7 +27,7 @@ Collection of LeetCode questions and solutions
 |   21. 중복 문자 제거 | [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | Medium |
 |   22. 일일 온도 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Easy |
 |   23. 큐를 이용한 스택 구헌 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy |
-|   24. 스택을 이요한 큐 구현 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy |
+|   24. 스택을 이용한 큐 구현 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy |
 |   25. 원형 큐 디자인 | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium |
 |   26. 원형 데크 디자인 | [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | Medium |
 |   27. K개 정렬 리스트 병합 | [23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard |
