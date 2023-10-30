@@ -1,4 +1,4 @@
-## py_algorithms
+## Python Algorithm
 
 Collection of LeetCode questions and solutions
 
