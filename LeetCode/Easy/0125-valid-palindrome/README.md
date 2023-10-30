@@ -38,5 +38,5 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 
 **Constrains:**  
 
-* `1 <= s.length <= 2 * 10<sup>5</sup>`  
+* 1 <= s.length <= 2 * 10<sup>5</sup>  
 * `s` consists only of printable ASCII characters.  
