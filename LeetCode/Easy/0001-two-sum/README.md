@@ -2,7 +2,6 @@
 	<a href="https://leetcode.com/problems/two-sum">1. Two Sum</a>
 </h2>
 <h3>Easy</h3>
-<p><b>Python Algotithem Interview Q 07. Two Sum</b></p>
 <hr>
 
 <p>Given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
