@@ -28,6 +28,6 @@ Explanation: The optimal pairing is (2, 1), (2, 5), (6, 6). min(2, 1) + min(2, 5
 
 **Constrains:**  
 
-* `1 <= n <= 10<sup>4</sup>`
+* 1 <= n <= 10<sup>4</sup>
 * `nums.length == 2 * n`
-* `-104 <= nums[i] <= 10<sup>4</sup>`
+* -10<sup>4</sup> <= nums[i] <= 10<sup>4</sup>
