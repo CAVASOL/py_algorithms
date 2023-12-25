@@ -2,6 +2,7 @@
 
 ### Composition
 
+```
 Python Algorithm 
     ├── Python  
     │     └── `6. String manipulation`  
@@ -32,3 +33,4 @@ Python Algorithm
           └── `22. Divide and Conquer` 
                  ├── `21. Greedy Algorithm`  
                  └── `23. Dynamic programming`  
+```
