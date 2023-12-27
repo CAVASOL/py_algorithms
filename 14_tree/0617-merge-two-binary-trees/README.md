@@ -29,4 +29,4 @@ Output: [2,2]
 **Constrains:**  
 
 * The number of nodes in both trees is in the range `[0, 2000]`.
-* `-10<sup>4</sup> <= Node.val <= 10<sup>4</sup>`
+* -10<sup>4</sup> <= Node.val <= 10<sup>4</sup>
