@@ -37,7 +37,7 @@ Python Algorithm
 
 ### List of Python Algorithm Questions
 
-| Python Algorithm | this repo | leetcode.com | Difficulty |
+| Python Algorithm | This repo | leetcode.com | Difficulty |
 | :--- | :--- | :--- | :---: |
 | 01. 유효한 펠린드롬 | [0125](https://github.com/CAVASOL/py_algorithms/tree/master/06_string_manipulation/0125-valid-palindrome) | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy |
 | 02. 문자열 뒤집기 | [0344](https://github.com/CAVASOL/py_algorithms/tree/master/06_string_manipulation/0344-reverse-string) | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy |
@@ -103,7 +103,7 @@ Python Algorithm
 | 62. 유효한 애너그램 | [0242](https://github.com/CAVASOL/py_algorithms/tree/master/17_sort/0242-valid-anagram) | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy |
 | 63. 색 정렬 | - | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium |
 | 64. 원점에 K번째로 가까운 점 | - | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium |
-| 65. 이진 검색 | [0704](https://github.com/CAVASOL/py_algorithms/tree/master/18_binary_search/0704-binary-search) [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy |
+| 65. 이진 검색 | [0704](https://github.com/CAVASOL/py_algorithms/tree/master/18_binary_search/0704-binary-search) | [704. Binary Search](https://leetcode.com/problems/binary-search/) | Easy |
 | 66. 회전 정렬된 배열 검색 | - | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 
 | 67. 두 배열의 교집합 | [0349](https://github.com/CAVASOL/py_algorithms/tree/master/18_binary_search/0349-intersection-of-two-arrays) | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy |
 | 68. 두 수의 합 2 | - | [167. Two Sum 2 - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium |
