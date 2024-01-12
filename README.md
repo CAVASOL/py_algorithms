@@ -38,7 +38,7 @@ Python Algorithm
 ### List of Python Algorithm Questions
 
 | Python Algorithm | this repo | leetcode.com | Difficulty |
-| :--- | :--- | :---: | :---: |
+| :--- | :--- | :--- | :---: |
 | 01. 유효한 펠린드롬 | [0125](https://github.com/CAVASOL/py_algorithms/tree/master/06_string_manipulation/0125-valid-palindrome) | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy |
 | 02. 문자열 뒤집기 | [0344](https://github.com/CAVASOL/py_algorithms/tree/master/06_string_manipulation/0344-reverse-string) | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy |
 | 03. 로그 파일 재정렬 | [0937](https://github.com/CAVASOL/py_algorithms/tree/master/06_string_manipulation/0937-reorder-data-in-log-files) | [937. Reorder Data in Lod Files](https://leetcode.com/problems/reorder-data-in-log-files/) | Medium |
